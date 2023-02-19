@@ -1,4 +1,4 @@
-USE PACKT_ONLINE_SHOP;
+USE PACOS;
 
 INSERT INTO Customers ( FirstName, MiddleName, LastName, Address, Email, Phone, Notes )
 VALUES
